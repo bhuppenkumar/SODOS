@@ -1,0 +1,16 @@
+# PyInstaller build outputs (Executables)
+build/
+dist/
+*.spec
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/

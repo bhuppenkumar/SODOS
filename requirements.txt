@@ -1,0 +1,4 @@
+customtkinter
+pypdf
+Pillow
+pypdfium2
